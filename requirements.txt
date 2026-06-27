@@ -1,1 +1,11 @@
 # Project dependencies
+fastapi
+uvicorn
+pymupdf
+sentence-transformers
+faiss-cpu
+groq
+streamlit
+python-multipart
+numpy
+python-dotenv
